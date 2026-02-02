@@ -1,58 +1,108 @@
-# Hi, I'm Ismail TP 👋
+# Ismail TP
 
-🔐 Aspiring Cybersecurity Analyst  
-🛡️ Focus: Web Application Security & Offensive Security  
-📍 Calicut, Kerala, India  
-
----
-
-## 🚀 About Me
-
-I am a cybersecurity learner actively building practical tools and security-focused projects.  
-My goal is to become a professional Security Analyst specializing in web application security and penetration testing.
-
-I focus on:
-- Networking Fundamentals
-- Linux & Command Line
-- Web Application Testing
-- Vulnerability Analysis
-- Building Security Utilities
+<p align="center">
+  🔐 Cybersecurity Enthusiast | Web Security Focus | Offensive Security Learner  
+</p>
 
 ---
 
-## 🧰 Skills & Tools
+## 👨‍💻 About Me
 
-- Linux (Kali Linux)
+I am a cybersecurity learner focused on building practical security skills through hands-on labs, tool development, and structured pentesting workflows.
+
+My primary interest lies in **Web Application Security** and **Offensive Security methodologies**.  
+I prioritize understanding how systems break — and how to defend them effectively.
+
+---
+
+## 🎯 Career Objective
+
+To become a Security Analyst specializing in:
+
+- Web Application Vulnerability Assessment
+- Network Security Analysis
+- Penetration Testing
+- Threat Identification & Mitigation
+
+---
+
+## 🛠 Technical Skillset
+
+### 🔹 Operating Systems
+- Kali Linux
+- Linux CLI Fundamentals
+
+### 🔹 Networking
+- TCP/IP Fundamentals
+- Subnetting & CIDR
+- Port & Protocol Analysis
+- Packet Flow Understanding
+
+### 🔹 Security Tools
 - Nmap
 - Burp Suite
-- Basic Python Scripting
-- Git & GitHub
-- Networking & Subnetting
+- Nikto
+- Basic Recon Automation Scripts
+
+### 🔹 Development
+- HTML, CSS, JavaScript
+- Basic Python (Security Tooling)
+- Git & GitHub Version Control
 
 ---
 
-## 📌 Highlight Projects
+## 📌 Featured Projects
 
-### 🔹 Pentest Workflow Dashboard
-Structured dashboard to manage pentesting phases from reconnaissance to post-exploitation.
+### 🔐 Pentest Workflow Dashboard
+A structured engagement tracker covering:
+- Reconnaissance
+- Scanning
+- Exploitation
+- Post-Exploitation
+- Report Preparation
 
-### 🔹 IP Subnet Calculator
-Interactive web-based subnetting tool for networking learners.
-
-### 🔹 Port Reference Cheat Sheet
-Quick reference guide for commonly used network ports in cybersecurity.
+Designed to bring discipline and clarity to penetration testing sessions.
 
 ---
 
-## 📈 Current Focus
+### 🌐 IP Subnet Calculator
+Interactive web-based subnetting tool built to strengthen networking fundamentals for cybersecurity learners.
 
-- Deepening networking knowledge
-- Improving web vulnerability detection skills
-- Building custom security tools in Python
-- Practicing CTF challenges
+---
+
+### 📖 Port Reference Cheat Sheet
+Quick-reference guide for commonly used network ports and associated services in security testing environments.
+
+---
+
+## 📊 Learning Roadmap
+
+Current Focus Areas:
+
+- Advanced Networking for Security
+- Web Vulnerability Detection (XSS, SQLi, Authentication Issues)
+- CTF Challenge Practice
+- Python-based Security Automation
+- Log Analysis & Basic Incident Investigation
+
+---
+
+## 🧠 Approach to Learning
+
+- Build tools instead of only consuming theory  
+- Document progress  
+- Practice through labs and CTF environments  
+- Focus on depth over surface-level familiarity  
 
 ---
 
 ## 📫 Contact
 
-Email: inuismail10@gmail.com
+📍 Calicut, Kerala, India  
+📧 inuismail10@gmail.com  
+
+---
+
+<p align="center">
+  "Security is not about tools — it's about understanding systems."
+</p>
