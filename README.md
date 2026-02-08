@@ -55,23 +55,6 @@ Long-term objective: Work as a Security Analyst specializing in web application 
 
 ---
 
-## Selected Projects
-
-### Pentest Workflow Dashboard
-A structured dashboard designed to organize penetration testing engagements from reconnaissance to reporting.  
-Focus: workflow discipline and engagement clarity.
-
-### IP Subnet Calculator
-Interactive subnetting tool built to strengthen networking understanding for security learners.
-
-### Port Reference Cheat Sheet
-Structured reference guide for commonly used network ports and services in security testing.
-
-### Recon Automation Scripts
-Basic Python scripts created to streamline reconnaissance and information gathering processes.
-
----
-
 ## Current Development Focus
 
 - Deepening networking knowledge for security analysis
